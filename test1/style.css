@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    color: rgba(255, 255, 255, 0.708);
+    width: 100vw;
+}
+h3{
+    color: rgba(34, 184, 11, 0.838);
+    text-align: center;
+}
+h4{
+    color: rgba(34, 184, 11, 0.838);
+}
+span{
+    font-weight: bold;
+    color: orange;
+}
+.pricipali{
+    border: solid red 2px;
+}
+.intestazione{
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navbar{
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.articolo{
+    height: 60vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+}
+.sezione{
+    width: 70vw;
+    height: 45vh;
+}
+.lato{
+    height: 60vh;
+    width: 30vw;
+}
+.footer{
+    width: 100vw;
+}
